@@ -1,0 +1,10 @@
+{
+  "itemGroup.blightheart": "Blightheart",
+  "block.blightheart.infection_heart": "Blight Heart",
+  "block.blightheart.infection_mass": "Blight Mass",
+  "entity.blightheart.spawnling": "Spawnling",
+  "entity.blightheart.heart_guardian": "Heart Guardian",
+  "item.blightheart.spawnling_spawn_egg": "Spawnling Spawn Egg",
+  "item.blightheart.heart_guardian_spawn_egg": "Heart Guardian Spawn Egg",
+  "message.blightheart.heart_destroyed": "The Blight Heart is destroyed! Its spawn are dying..."
+}

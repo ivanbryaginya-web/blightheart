@@ -1,0 +1,10 @@
+{
+  "itemGroup.blightheart": "Сердце Заражения",
+  "block.blightheart.infection_heart": "Сердце Заражения",
+  "block.blightheart.infection_mass": "Заражённая масса",
+  "entity.blightheart.spawnling": "Порождение",
+  "entity.blightheart.heart_guardian": "Страж Сердца",
+  "item.blightheart.spawnling_spawn_egg": "Яйцо призыва Порождения",
+  "item.blightheart.heart_guardian_spawn_egg": "Яйцо призыва Стража Сердца",
+  "message.blightheart.heart_destroyed": "Сердце Заражения уничтожено! Его порождения гибнут…"
+}

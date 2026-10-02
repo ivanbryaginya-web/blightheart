@@ -1,0 +1,25 @@
+{
+  "variants": {
+    "decaying=false": [
+      {
+        "model": "blightheart:block/infection_mass",
+        "y": 0
+      },
+      {
+        "model": "blightheart:block/infection_mass",
+        "y": 90
+      },
+      {
+        "model": "blightheart:block/infection_mass",
+        "y": 180
+      },
+      {
+        "model": "blightheart:block/infection_mass",
+        "y": 270
+      }
+    ],
+    "decaying=true": {
+      "model": "blightheart:block/infection_mass_decaying"
+    }
+  }
+}
